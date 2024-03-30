@@ -15,11 +15,11 @@ Promotes Better Understanding: Writing tests first requires developers to thorou
 
 Pest PHP offers a wide range of expect functions for making assertions in your tests. These functions are intuitive and readable, making your tests easy to understand and write. Here's a list of some commonly used toBe and related expectation functions available in Pest:
 
-Install steps:
+**Install steps:
 Composer Install
 run command to test full project : ./vendor/bin/pest
 run command to test folder : ./vendor/bin/pest tests/Unit
-run command to test full project : ./vendor/bin/pest tests/Unit/TaxCalculatorTest.php 
+run command to test full project : ./vendor/bin/pest tests/Unit/TaxCalculatorTest.php **
 
 toBe($value): Asserts that the value is exactly the same as $value.
 
